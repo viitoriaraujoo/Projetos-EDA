@@ -17,20 +17,28 @@ O conteúdo do conjunto de dados é vasto, abrangendo uma coleção abrangente d
 
 ## 2. ESTRUTURA DO CONJUNTO DE DADOS
 
-**Conjunto de Dados: `data_science_salaries`**
-
 Este conjunto abrange o período de 2020 a 2024 e inclui as seguintes colunas:
 
 **`job_title`:** Cargo ou título associado ao salário relatado.
+
 **`experience_level`:** Nível de experiência, proporcionando compreensão da senioridade.
+
 **`employment_type`:** Tipo de emprego (tempo integral, tempo parcial, etc.).
+
 **`work_models`:** Diferentes modelos de trabalho, como remoto, no local ou híbrido.
+
 **`work_year`:** Ano específico em que as informações salariais foram registradas.
+
 **`employee_residence`:** Local de residência do empregado, relevante para análises geográficas.
+
 **`salary`:** Salário original, fornecendo a referência monetária inicial.
+
 **`salary_currency`:** Moeda na qual o salário é denominado.
+
 **`salary_in_usd`:** Salário convertido em dólares dos EUA para comparações internacionais.
+
 **`company_location`:** Localização geográfica da organização empregadora.
+
 **`company_size`:** Tamanho da empresa categorizado pelo número de funcionários.
 
 Essa estrutura bem definida possibilita análises detalhadas e abrangentes das dinâmicas salariais na ciência de dados, considerando vários fatores que impactam a remuneração ao longo do tempo e em diferentes contextos.
